@@ -14,10 +14,11 @@ FLSUN already use some pins of EXP2 for LED head ligth:</br>
 EXP2_7 PE12 "output_pin LED_pin" in printer.cfg for head led light</br>
 EXP2_9 GND</br>
 </br>
-So, we can use for extra temp sensor via SPI + MAX31865:
-EXP2_1 MISO PA6
-EXP2_2 SCK PA5 (clock)
-EXP2_6 MOSI PE10
-EXP2_4 CS PE0 (temperature signal)
+So, we can use for extra temp sensor via SPI + MAX31865:</br>
+EXP2_1 MISO PA6</br>
+EXP2_2 SCK PA5 (clock)</br>
+EXP2_6 MOSI PE10</br>
+EXP2_4 CS PE0 (temperature signal)</br>
+</br>
 
 
