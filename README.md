@@ -20,5 +20,8 @@ EXP2_2 SCK PA5 (clock)</br>
 EXP2_6 MOSI PE10</br>
 EXP2_4 CS PE0 (temperature signal)</br>
 </br>
-
+Very usefull video about MAX31865 and P100/P1000 termistors connection and some solderings on this board for it right configuration:</br>
+https://youtu.be/at8T6UYoTt8?si=tq-utT8XKpx-lrK0 </br>
+Please pay your attension that for some MAX31865 boards MOSI-MISO connection  EXP2<->MAX31865 can be direct, but for some opposit.
+</br>
 
