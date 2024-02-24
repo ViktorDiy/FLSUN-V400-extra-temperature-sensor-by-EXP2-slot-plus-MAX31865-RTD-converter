@@ -22,7 +22,17 @@ EXP2_4 CS PE0 (temperature signal)</br>
 </br>
 Very usefull video about MAX31865 and P100/P1000 termistors connection and some solderings on this board for it right configuration:</br>
 https://youtu.be/at8T6UYoTt8?si=tq-utT8XKpx-lrK0 </br>
+</br>
 Please pay your attension that for some MAX31865 boards MOSI-MISO connection  EXP2<->MAX31865 can be direct, but for some opposit. </br>
 For MAX31865 board on the picture above it has direct connection MISO (EXP2) -> SDO (MAX31865), MOSI (EXP2) -> SDI (MAX31865) </br>
 </br>
+For this setup I moved FLSUN LED head slot to external board with MAX31865 </br>
+https://www.aliexpress.com/item/1005004266492521.html </br>
+https://www.aliexpress.com/item/1005004762590129.html </br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-temperature-sensor-by-EXP2-slot-plus-MAX31865-RTD-converter/assets/147925158/c3c066e4-e77a-4705-9443-40a6ca8386ec) </br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-temperature-sensor-by-EXP2-slot-plus-MAX31865-RTD-converter/assets/147925158/49f1132a-da08-4048-ab52-bea5a8bc78c0) </br>
+
+
+
+
 
