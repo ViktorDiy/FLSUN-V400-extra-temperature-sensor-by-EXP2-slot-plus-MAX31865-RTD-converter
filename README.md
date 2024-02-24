@@ -33,6 +33,21 @@ https://www.aliexpress.com/item/1005004762590129.html </br>
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-temperature-sensor-by-EXP2-slot-plus-MAX31865-RTD-converter/assets/147925158/4a373463-98c3-4d7e-a673-1fac8ed7eeaa) </br>
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-temperature-sensor-by-EXP2-slot-plus-MAX31865-RTD-converter/assets/147925158/8142f2ec-fcc3-49bb-8799-1a9bf57f4728) </br>
 
+Klipper config:</br>
+</br>
+[temperature_sensor chamber_temp] </br>
+sensor_type: MAX31865 </br>
+sensor_pin: PE10 </br>
+spi_speed: 4000000 </br>
+spi_software_sclk_pin: PA5 </br>
+spi_software_mosi_pin: PA7 </br>
+spi_software_miso_pin: PA6 </br>
+rtd_nominal_r: 100 </br>
+rtd_reference_r: 430 </br>
+rtd_num_of_wires: 2 </br>
+rtd_use_50Hz_filter: True </br>
+</br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-temperature-sensor-by-EXP2-slot-plus-MAX31865-RTD-converter/assets/147925158/ef00557b-74a5-47d7-820c-4ed2c863d086)
 
 
 
