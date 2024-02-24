@@ -29,8 +29,11 @@ For MAX31865 board on the picture above it has direct connection MISO (EXP2) -> 
 For this setup I moved FLSUN LED head slot to external board with MAX31865 </br>
 https://www.aliexpress.com/item/1005004266492521.html </br>
 https://www.aliexpress.com/item/1005004762590129.html </br>
-![image](https://github.com/ViktorDiy/FLSUN-V400-extra-temperature-sensor-by-EXP2-slot-plus-MAX31865-RTD-converter/assets/147925158/c3c066e4-e77a-4705-9443-40a6ca8386ec) </br>
-![image](https://github.com/ViktorDiy/FLSUN-V400-extra-temperature-sensor-by-EXP2-slot-plus-MAX31865-RTD-converter/assets/147925158/49f1132a-da08-4048-ab52-bea5a8bc78c0) </br>
+  
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-temperature-sensor-by-EXP2-slot-plus-MAX31865-RTD-converter/assets/147925158/4a373463-98c3-4d7e-a673-1fac8ed7eeaa) </br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-temperature-sensor-by-EXP2-slot-plus-MAX31865-RTD-converter/assets/147925158/8142f2ec-fcc3-49bb-8799-1a9bf57f4728) </br>
+
+
 
 
 
